@@ -28,3 +28,15 @@ The only challenge main objective is performance of data/page loading time.
 - [ ] use Next.js
 
 No need to be serious or take so much time, it's just having fun.
+
+## Plans
+
+At first glance, I thought I would test full client-side rendering and full server-side rendering. But, after reading this data:
+
+<div style="display: flex; justify-content: center;">
+  <img src="./images/aws-latency.png" alt="aws-latency" />
+</div>
+
+I'm located in Indonesia, and having 50ms as the best latency is a very terrible start. So, I think I will start with a hybrid approach similar to Thymer's approach.
+
+Before we deep dive into how the high-level plan of hybrid, offline-first, or client-first approach. We need to test wether Next.js navigation in local or client-side is faster than 10ms.
