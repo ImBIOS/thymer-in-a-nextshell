@@ -11,8 +11,8 @@
 Everything starts with [a tweet](https://x.com/ImBIOS_Dev/status/1900574102517325897):
 
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-  <img src="./.github/images/tweet-1.png" alt="tweet-1" width="48%" style="margin-right: 2%;" />
-  <img src="./.github/images/tweet-2.png" alt="tweet-2" width="48%" />
+  <img src="./docs/images/tweet-1.png" alt="tweet-1" width="48%" style="margin-right: 2%;" />
+  <img src="./docs/images/tweet-2.png" alt="tweet-2" width="48%" />
 </div>
 
 and ok, I'm not sure if I'm ready to build this, but I'm sure as heck going to try.
@@ -36,7 +36,7 @@ No need to be serious or take so much time, it's just having fun.
 At first glance, I thought I would test full client-side rendering and full server-side rendering. But, after reading this data:
 
 <div style="display: flex; justify-content: center;">
-  <img src="./.github/images/aws-latency.png" alt="aws-latency" />
+  <img src="./docs/images/aws-latency.png" alt="aws-latency" />
 </div>
 
 I'm located in Indonesia, and having 50ms as the best latency is a very terrible start. So, I think I will start with a hybrid approach similar to Thymer's approach.
