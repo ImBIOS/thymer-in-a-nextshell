@@ -1,0 +1,13 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compileOnSave": false,
+  "files": [],
+  "references": [
+    {
+      "path": "./apps/lab-1-next-nav-time-e2e"
+    },
+    {
+      "path": "./apps/lab-1-next-nav-time"
+    }
+  ]
+}

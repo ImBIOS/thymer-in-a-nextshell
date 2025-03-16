@@ -1,0 +1,10 @@
+{
+  "name": "lab-1-next-nav-time-e2e",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "implicitDependencies": [
+      "lab-1-next-nav-time"
+    ]
+  }
+}

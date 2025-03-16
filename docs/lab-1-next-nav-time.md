@@ -1,4 +1,4 @@
-# Lab: Next.js Navigation Time
+# Lab 1: Next.js Navigation Time
 
 ## Introduction
 

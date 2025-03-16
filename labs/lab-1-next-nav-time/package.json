@@ -1,0 +1,13 @@
+{
+  "name": "@thymer-in-a-nextshell/lab-1-next-nav-time",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "name": "lab-1-next-nav-time"
+  },
+  "dependencies": {
+    "next": "~15.1.4",
+    "react": "19.0.0",
+    "react-dom": "19.0.0"
+  }
+}
