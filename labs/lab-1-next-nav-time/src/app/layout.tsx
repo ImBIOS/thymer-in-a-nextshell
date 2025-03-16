@@ -12,7 +12,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body className="bg-[#191919] text-gray-200 min-h-screen">
+        <div className="flex h-screen overflow-hidden">{children}</div>
+      </body>
     </html>
   );
 }
