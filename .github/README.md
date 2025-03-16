@@ -23,7 +23,9 @@ The only challenge main objective is performance of data/page loading time.
 
 ### Requirements
 
-- [ ] 10-50ms page load time (idintified from the 60fps vids), use automated testing to be the objective judge
+- [ ] 17-50ms page load time (idintified from the 60fps vids), use automated testing to be the objective judge
+  - p90 of <17ms
+  - p95 of <50ms
 - [ ] have similar UI, no need to be pixel perfect nor identical
 - [ ] use Next.js
 
