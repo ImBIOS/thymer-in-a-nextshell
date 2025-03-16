@@ -1,0 +1,12 @@
+{
+  "name": "thymer-in-a-nextshell",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Imamuzzaki Abu Salam",
+    "email": "imamuzzaki@gmail.com",
+    "url": "https://github.com/ImBIOS"
+  }
+}
