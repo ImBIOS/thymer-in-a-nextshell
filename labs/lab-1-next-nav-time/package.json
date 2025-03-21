@@ -6,7 +6,7 @@
     "name": "lab-1-next-nav-time"
   },
   "dependencies": {
-    "next": "~15.1.4",
+    "next": "~15.2.3",
     "react": "19.0.0",
     "react-dom": "19.0.0"
   }
